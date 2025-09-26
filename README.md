@@ -117,7 +117,7 @@
         <!-- 푸터 -->
         <footer class="text-center mt-16 pt-8 border-t-2 border-[#d3c5aa]">
             <p class="text-xl menu-title">Windey</p>
-            <p class="text-gray-600 mt-2">귀한 분들에게게 최고의 맛과 정성을 선사합니다.</p>
+            <p class="text-gray-600 mt-2">한전 김동철 사장님을 포함한 모든든 분들에게 최고의 맛과 정성을 선사합니다.</p>
         </footer>
     </div>
 </body>
